@@ -1,0 +1,29 @@
+2019-06-19 20:22:51,037 [main] INFO nopcommerceV2 - ************ Starting TC_LoginTest_001 ************ 
+2019-06-19 20:23:21,091 [main] INFO nopcommerceV2 - ************ Proving username & password ************ 
+2019-06-19 20:25:10,531 [main] INFO nopcommerceV2 - ************ Starting TC_LoginTest_001 ************ 
+2019-06-19 20:25:12,737 [main] INFO nopcommerceV2 - ************ Proving username & password ************ 
+2019-06-19 20:27:55,589 [main] INFO nopcommerceV2 - User provided
+2019-06-19 20:27:55,714 [main] INFO nopcommerceV2 - Password provided
+2019-06-19 20:28:00,074 [main] INFO nopcommerceV2 - Login in Clicked
+2019-06-19 20:28:04,184 [main] INFO nopcommerceV2 - Login Passed
+2019-06-19 20:31:01,682 [main] INFO nopcommerceV2 - User provided
+2019-06-19 20:31:01,800 [main] INFO nopcommerceV2 - Password provided
+2019-06-19 20:31:06,326 [main] INFO nopcommerceV2 - Login in Clicked
+2019-06-19 20:31:10,515 [main] INFO nopcommerceV2 - Login Passed
+2019-06-19 20:31:15,490 [main] INFO nopcommerceV2 - **************** Starting TC_LoginDDT_002 ************* 
+2019-06-19 20:31:18,207 [main] INFO nopcommerceV2 - **************** Proving login details ************* 
+2019-06-19 20:31:28,989 [main] INFO nopcommerceV2 - **************** loginTest is Passed ************* 
+2019-06-19 20:31:28,990 [main] INFO nopcommerceV2 - **************** Finished TC_LoginTest_001 ************* 
+2019-06-19 20:31:28,993 [main] INFO nopcommerceV2 - **************** Starting TC_LoginDDT_002 ************* 
+2019-06-19 20:31:29,981 [main] INFO nopcommerceV2 - **************** Proving login details ************* 
+2019-06-19 20:31:35,714 [main] WARN nopcommerceV2 - **************** loginTest is Failed************* 
+2019-06-19 20:31:35,737 [main] INFO nopcommerceV2 - **************** Starting TC_LoginDDT_002 ************* 
+2019-06-19 20:31:36,709 [main] INFO nopcommerceV2 - **************** Proving login details ************* 
+2019-06-19 20:31:42,455 [main] WARN nopcommerceV2 - **************** loginTest is Failed************* 
+2019-06-19 20:31:42,470 [main] INFO nopcommerceV2 - **************** Starting TC_LoginDDT_002 ************* 
+2019-06-19 20:31:43,691 [main] INFO nopcommerceV2 - **************** Proving login details ************* 
+2019-06-19 20:31:49,392 [main] WARN nopcommerceV2 - **************** loginTest is Failed************* 
+2019-06-19 21:44:37,361 [main] INFO nopcommerceV2 - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-19 21:45:06,452 [main] INFO nopcommerceV2 - ***************  Providing customer details  *********** 
+2019-06-19 21:45:14,348 [main] INFO nopcommerceV2 - ***************  Customer added succesfully *********** 
+2019-06-19 21:45:14,350 [main] INFO nopcommerceV2 - ***************   TC_AddCustomerTest_003 Finished  *********** 

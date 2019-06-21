@@ -1,0 +1,197 @@
+2019-06-19 21:53:20,203 - nopcommerceV2 -INFO - User provided
+2019-06-19 21:53:20,333 - nopcommerceV2 -INFO - Password provided
+2019-06-19 21:53:27,923 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-19 21:53:31,740 - nopcommerceV2 -INFO - Login Passed
+2019-06-19 21:53:37,456 - nopcommerceV2 -INFO - **************** Starting TC_LoginDDT_002 ************* 
+2019-06-19 21:53:39,112 - nopcommerceV2 -INFO - **************** Proving login details ************* 
+2019-06-19 21:53:50,970 - nopcommerceV2 -INFO - **************** loginTest is Passed ************* 
+2019-06-19 21:53:50,971 - nopcommerceV2 -INFO - **************** Finished TC_LoginTest_001 ************* 
+2019-06-19 21:53:50,981 - nopcommerceV2 -INFO - **************** Starting TC_LoginDDT_002 ************* 
+2019-06-19 21:53:52,061 - nopcommerceV2 -INFO - **************** Proving login details ************* 
+2019-06-19 21:53:58,385 - nopcommerceV2 -WARN - **************** loginTest is Failed************* 
+2019-06-19 21:53:58,396 - nopcommerceV2 -INFO - **************** Starting TC_LoginDDT_002 ************* 
+2019-06-19 21:53:59,430 - nopcommerceV2 -INFO - **************** Proving login details ************* 
+2019-06-19 21:54:05,273 - nopcommerceV2 -WARN - **************** loginTest is Failed************* 
+2019-06-19 21:54:05,280 - nopcommerceV2 -INFO - **************** Starting TC_LoginDDT_002 ************* 
+2019-06-19 21:54:06,289 - nopcommerceV2 -INFO - **************** Proving login details ************* 
+2019-06-19 21:54:12,149 - nopcommerceV2 -WARN - **************** loginTest is Failed************* 
+2019-06-19 21:54:23,536 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-19 21:54:27,863 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-19 21:54:35,912 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-19 21:54:35,912 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-19 22:10:33,270 - nopcommerceV2 -INFO - User provided
+2019-06-19 22:10:33,468 - nopcommerceV2 -INFO - Password provided
+2019-06-19 22:10:48,561 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-19 22:10:52,876 - nopcommerceV2 -INFO - Login Passed
+2019-06-19 22:11:05,160 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-19 22:11:13,586 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-19 22:11:21,049 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-19 22:11:21,051 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-19 22:22:48,078 - nopcommerceV2 -INFO - User provided
+2019-06-19 22:22:48,268 - nopcommerceV2 -INFO - Password provided
+2019-06-19 22:22:54,644 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-19 22:22:59,105 - nopcommerceV2 -INFO - Login Passed
+2019-06-19 22:23:11,308 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-19 22:23:17,275 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-19 22:23:24,185 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-19 22:23:24,185 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-20 14:47:15,261 - nopcommerceV2 -INFO - User provided
+2019-06-20 14:47:15,375 - nopcommerceV2 -INFO - Password provided
+2019-06-20 14:47:20,409 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-20 14:47:24,146 - nopcommerceV2 -INFO - Login Passed
+2019-06-20 14:47:34,100 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-20 14:47:39,918 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-20 14:47:46,318 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-20 14:47:46,318 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-20 14:54:20,282 - nopcommerceV2 -INFO - User provided
+2019-06-20 14:54:20,399 - nopcommerceV2 -INFO - Password provided
+2019-06-20 14:54:25,510 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-20 14:54:29,203 - nopcommerceV2 -INFO - Login Passed
+2019-06-20 14:54:38,722 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-20 14:54:43,244 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-20 14:54:49,357 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-20 14:54:49,358 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-20 14:58:20,426 - nopcommerceV2 -INFO - User provided
+2019-06-20 14:58:20,561 - nopcommerceV2 -INFO - Password provided
+2019-06-20 14:58:26,795 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-20 14:58:30,842 - nopcommerceV2 -INFO - Login Passed
+2019-06-20 14:58:40,826 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-20 14:58:49,130 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-20 14:58:55,682 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-20 14:58:55,683 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-20 21:08:19,798 - nopcommerceV2 -INFO - User provided
+2019-06-20 21:08:20,023 - nopcommerceV2 -INFO - Password provided
+2019-06-20 21:08:28,972 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-20 21:08:32,931 - nopcommerceV2 -INFO - Login Passed
+2019-06-20 21:08:44,574 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-20 21:08:53,749 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-20 21:09:00,760 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-20 21:09:00,760 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-20 21:11:59,973 - nopcommerceV2 -INFO - User provided
+2019-06-20 21:12:00,149 - nopcommerceV2 -INFO - Password provided
+2019-06-20 21:12:05,542 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-20 21:12:08,956 - nopcommerceV2 -INFO - Login Passed
+2019-06-20 21:12:20,623 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-20 21:12:26,850 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-20 21:12:33,740 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-20 21:12:33,740 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-20 21:40:43,422 - nopcommerceV2 -INFO - User provided
+2019-06-20 21:40:43,658 - nopcommerceV2 -INFO - Password provided
+2019-06-20 21:40:50,109 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-20 21:40:53,601 - nopcommerceV2 -INFO - Login Passed
+2019-06-20 21:41:05,558 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-20 21:41:12,174 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-20 21:41:19,267 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-20 21:41:19,268 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-20 21:44:21,605 - nopcommerceV2 -INFO - User provided
+2019-06-20 21:44:21,765 - nopcommerceV2 -INFO - Password provided
+2019-06-20 21:44:26,470 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-20 21:44:30,981 - nopcommerceV2 -INFO - Login Passed
+2019-06-20 21:44:43,421 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-20 21:44:47,297 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-20 21:44:54,744 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-20 21:44:54,747 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-20 21:50:03,321 - nopcommerceV2 -INFO - User provided
+2019-06-20 21:50:03,455 - nopcommerceV2 -INFO - Password provided
+2019-06-20 21:50:18,346 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-20 21:50:22,326 - nopcommerceV2 -INFO - Login Passed
+2019-06-20 21:50:34,000 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-20 21:50:43,100 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-20 21:50:50,420 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-20 21:50:50,421 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-21 11:00:05,508 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:00:05,691 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:00:09,534 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:00:13,268 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:00:24,010 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 statred  *********** 
+2019-06-21 11:00:27,346 - nopcommerceV2 -INFO - ***************  Providing customer details  *********** 
+2019-06-21 11:00:34,014 - nopcommerceV2 -INFO - ***************  Customer added succesfully *********** 
+2019-06-21 11:00:34,015 - nopcommerceV2 -INFO - ***************   TC_AddCustomerTest_003 Finished  *********** 
+2019-06-21 11:09:26,598 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:09:26,713 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:09:32,998 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:09:36,966 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:13:29,706 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:13:29,816 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:13:34,366 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:13:38,097 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:25:16,052 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:25:16,161 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:25:20,831 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:25:24,608 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:29:33,698 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:29:33,817 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:29:38,463 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:29:42,742 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:35:56,232 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:35:56,368 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:36:01,107 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:36:04,610 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:47:20,031 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:47:20,177 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:47:24,586 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:47:28,820 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:51:57,503 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:51:57,608 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:52:00,831 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:52:05,168 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:54:15,752 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:54:15,890 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:54:20,529 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:54:25,020 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 11:56:21,882 - nopcommerceV2 -INFO - User provided
+2019-06-21 11:56:21,998 - nopcommerceV2 -INFO - Password provided
+2019-06-21 11:56:25,188 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 11:56:29,433 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:10:53,591 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:10:53,698 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:10:58,547 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:11:03,097 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:18:09,946 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:18:10,058 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:18:14,890 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:18:18,758 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:23:57,301 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:23:57,503 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:24:02,630 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:24:06,308 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:28:56,663 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:28:56,770 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:29:06,665 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:29:11,013 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:31:09,362 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:31:09,471 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:31:13,867 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:31:17,990 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:34:35,143 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:34:35,264 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:34:40,632 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:34:44,512 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:36:47,852 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:36:47,963 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:36:53,361 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:36:57,404 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:38:41,359 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:38:41,494 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:38:46,366 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:38:50,049 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 12:54:02,871 - nopcommerceV2 -INFO - User provided
+2019-06-21 12:54:02,976 - nopcommerceV2 -INFO - Password provided
+2019-06-21 12:54:07,194 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 12:54:10,880 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 13:18:11,295 - nopcommerceV2 -INFO - User provided
+2019-06-21 13:18:11,428 - nopcommerceV2 -INFO - Password provided
+2019-06-21 13:18:15,841 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 13:18:19,523 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 14:12:17,726 - nopcommerceV2 -INFO - User provided
+2019-06-21 14:12:17,879 - nopcommerceV2 -INFO - Password provided
+2019-06-21 14:12:22,716 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 14:12:26,337 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 21:22:50,427 - nopcommerceV2 -INFO - User provided
+2019-06-21 21:22:50,638 - nopcommerceV2 -INFO - Password provided
+2019-06-21 21:22:56,672 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 21:23:00,461 - nopcommerceV2 -INFO - Login Passed
+2019-06-21 21:42:29,036 - nopcommerceV2 -INFO - User provided
+2019-06-21 21:42:29,188 - nopcommerceV2 -INFO - Password provided
+2019-06-21 21:42:34,373 - nopcommerceV2 -INFO - Login in Clicked
+2019-06-21 21:42:38,803 - nopcommerceV2 -INFO - Login Passed
